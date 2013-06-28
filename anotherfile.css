@@ -1,1 +1,18 @@
-/*nothing in this*/
+
+/* { picnicc: section-1 } */
+.center {
+  text-align: center;
+}
+/* { / picnicc } */
+
+/* { picnicc: section-2 } */
+.italic {
+  font-style: italic;
+}
+/* { / picnicc } */
+
+/* { picnicc: section-3 } */
+.bold {
+  font-weight: bold;
+}
+/* { / picnicc } */
