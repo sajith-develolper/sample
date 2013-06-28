@@ -1,8 +1,5 @@
 {
   "version"  : "1.0.0" ,
-  "assets"   : [
-			"https://github.com/sajithgithub/sample/blob/master/picnicc.js",
-			"https://github.com/sajithgithub/sample/blob/master/anotherfile.css"
-              ],
-  "bits"     : []
+  "assets"   : ["https://github.com/sajithgithub/sample/blob/master/anotherfile.css"],
+  "bits"     : ["section-1", "section-2", "section-3"]
 }  
