@@ -1,7 +1,7 @@
 {
   "version"  : "1.0.0" ,
   "assets"   : [
-				"https://github.com/sajithgithub/sample.git/picnicc.js"
+				"https://github.com/sajithgithub/sample/blob/master/picnicc.js"
               ],
   "bits"     : []
 }  
